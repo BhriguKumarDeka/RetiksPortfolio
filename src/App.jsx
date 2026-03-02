@@ -596,13 +596,13 @@ const App = () => {
                 <a href="https://github.com/Retik29" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="GitHub">
                   <Github size={20} />
                 </a>
-                <a href="#" className="social-link" aria-label="LinkedIn">
+                <a href="https://www.linkedin.com/in/retik-yadav/" className="social-link" aria-label="LinkedIn">
                   <Linkedin size={20} />
                 </a>
-                <a href="#" className="social-link" aria-label="Twitter">
+                <a href="https://x.com/RetikYadav205" className="social-link" aria-label="Twitter">
                   <Twitter size={20} />
                 </a>
-                <a href="#" className="social-link" aria-label="Instagram">
+                <a href="https://instagram.com/ritixig" className="social-link" aria-label="Instagram">
                   <Instagram size={20} />
                 </a>
                 <a href="mailto:rk@example.com" className="social-link" aria-label="Email">
