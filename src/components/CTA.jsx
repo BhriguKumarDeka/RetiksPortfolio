@@ -14,12 +14,12 @@ const CTA = () => {
                     transition={{ duration: 0.6 }}
                 >
                     <h2>
-                        Why You <span className="italic">Hire Me</span> for<br />
+                        Why You Should<span className="italic">Hire Me</span> for<br />
                         Your Next Projects?
                     </h2>
                     <p>
                         Delivering pixel-perfect, performant web solutions with a keen eye
-                        for design and commitment to quality code.
+                        to design and code quality.
                     </p>
                     <div className="cta-stats-row">
                         <div className="cta-stat">
